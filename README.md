@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [arghadeepdas.com](arghadeepdas.com)
+- 👨‍💻 All of my projects are available at [https://arghadeepdas.com](https://arghadeepdas.com)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **arghadeep.das.work@gmail.com**
 
-- 📄 Know about my experiences [arghadeepdas.com/resume.pdf](arghadeepdas.com/resume.pdf)
+- 📄 Know about my experiences [https://arghadeepdas.com/resume.pdf](https://arghadeepdas.com/resume.pdf)
 
 - ⚡ Fun fact **I like cats**
 
